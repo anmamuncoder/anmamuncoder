@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
 </h3>
 
-#### **Software Engineer | • Python • Django Expert | 2+ Years of Experience**  
+#### **Junior Software Engineer | • Python • Django Expert | 2+ Years of Experience**  
   
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Python%20and%20Django%20Expert;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=500&height=45&color=ff79c6&vCenter=true&pause=1000&size=20"/>
@@ -57,36 +57,21 @@
 My journey in competitive programming has allowed me to solve over **`1500 problems`** across various platforms in just 1 year. I have a LeetCode rating of *1492* after solving *800+ problems*, and on Codeforces, I’ve solved *400+ problems*, achieving the highest rating of 1065. Additionally, I’m a *2-star* coder on CodeChef, with a highest rating of 1429. I’ve also earned *5-star* rankings on HackerRank in Problem Solving, *C++, Python, and MySQL, and 4-star in C and Java*. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
  
 
- 
-
-
-<br>
-
-
 
 ### *OPENSOURCE EXPERIENCES*
 
 ---
 
-### • Digital SPI Library Management System
+### • Django Authentication & Inventory System
 
-Web-based library management platform for Sylhet Polytechnic Institute. Features online student registration with admin verification, flexible book borrowing (3-40 days), automated fine calculations, and comprehensive admin controls for managing books, students, and transactions.
+Enterprise-grade REST API with comprehensive authentication system, real-time inventory management, and subscription-based access control. Features include user registration with OTP verification, password reset workflows, profile management, WebSocket-powered live updates, inventory sharing between users, subscription tiers, and integrated payment processing. 
 
-**Tech Stack:** React.js • Django REST • PostgreSQL (Supabase) • JWT Auth • TailwindCSS
+**Tech Stack:**  `Django` • Django REST • Redis • Celery • `Docker` • WebSocket (`Channels`) • JWT Auth • API Throttling & Caching  • PostgreSQL  <br> [View More](https://anmamuncoder.vercel.app/project/django-authentication-system) | [Repository](#)
 
-[View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) 
- 
- 
-### • E-learning Gateway (TrueLearner)
-TrueLearner is an interactive e-learning platform that connects students with expert instructors, making education accessible and engaging.
-Key Features
-- Students: Enroll in courses, learn at your own pace, track progress, and engage with instructors.
-- Instructors: Create and manage courses, upload high-quality content, monitor student engagement, and monetize expertise.
-- Admins: Oversee users, manage courses, and track platform analytics for seamless operation.
 
-**Tech Stack:** Django • Django REST • JWT Auth • PostgreSQL • JavaScript • TailwindCSS 
+**• Digital SPI Library Management System**  - [View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) | [Repository](#) <br> **• E-learning Gateway (TrueLearner)** - [View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) | [Repository](#) 
 
-[View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) 
+
 
 </div>
 
@@ -104,7 +89,6 @@ Key Features
 **CGPA:** 4.00/5.00 
 
  <br> 
-  <br> 
  
 ### *My Competitive Programming Profiles*
 
@@ -165,8 +149,6 @@ Key Features
 
 <br>
 <br>
-<br> 
-
 
 ### *🔗 Performance Overview 🌟*
 
