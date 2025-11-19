@@ -1,82 +1,117 @@
-<h3 align="center">
-  Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a> 
+<h3 align="left">
+  Hey there, I'm <a href="https://github.com/anmamun0">Nur Mohummod Al Mamun</a> 
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
 </h3>
-<h3 align="center">🌟 Software Engineer | Python & Django Developer | Problem Solver 🌟</h3>
+
+#### **Software Engineer | • Python • Django Expert | 2+ Years of Experience**  
+  
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Python%20and%20Django%20Expert;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=500&height=45&color=ff79c6&vCenter=true&pause=1000&size=20"/>
+</div>
  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Python%20and%20Django%20Developer;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
-</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anmamun0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<div align="left">
 
-  <a href="https://anmamun0.vercel.app/" target="_blank" style="text-decoration: none;">
+  <a href="https://anmamuncoder.vercel.app/" target="_blank" style="text-decoration: none;">
     <img alt="Portfolio" title="Portfolio" 
          src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" 
          style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
   </a>
+  
+  <a href="https://www.linkedin.com/in/anmamuncoder/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/anmamuncoder">
+    <img src="https://img.shields.io/github/followers/anmamuncoder?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
+  </a>
+  
   <a href="https://drive.google.com/file/d/1Z2ZXArYYDHOY3qRCE4xLe9LEry-hgrvy/view?usp=drive_link" target="_blank" style="text-decoration: none;">
     <img alt="Resume" title="Resume" 
          src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" 
          style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
   </a>
-  
-  <a href="https://github.com/anmamun0?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/anmamun0?color=FFD700&style=for-the-badge&labelColor=333&logo=star" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/anmamun0">
-    <img src="https://img.shields.io/github/followers/anmamun0?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/anmamun0">
-    <img src="https://komarev.com/ghpvc/?username=anmamun0&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  </a> 
- 
 
   
-</div>
+<a  href="https://drive.google.com/file/d/1N8Fz7SsGGNcwfw8Byl1S_toPjrezkQn4/view" target="_blank" style="text-decoration: none;">
+  <img alt="CV" title="CV"
+       src="https://img.shields.io/badge/📘%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D47A1&color=fff"
+       style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
+</a>
+
+
+
+  <!-- 
+  <a href="https://github.com/anmamuncoder">
+    <img src="https://komarev.com/ghpvc/?username=anmamuncoder&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  </a> 
+   -->
+
+  
+</div> 
+<!-- Sponsor
+   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
+ <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
+ 
+#### I’m a Software Engineer and Python Developer and Competitive Programmer with a strong focus on backend development, particularly using Django REST Framework with React.js. with 2+ Year Exparience.
+My journey in competitive programming has allowed me to solve over **`1500 problems`** across various platforms in just 1 year. I have a LeetCode rating of *1492* after solving *800+ problems*, and on Codeforces, I’ve solved *400+ problems*, achieving the highest rating of 1065. Additionally, I’m a *2-star* coder on CodeChef, with a highest rating of 1429. I’ve also earned *5-star* rankings on HackerRank in Problem Solving, *C++, Python, and MySQL, and 4-star in C and Java*. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
+ 
+
+ 
+
 
 <br>
 
 
-<!-- Sponsor
-   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
- <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
- <p>   🚀 
- I’m a Software Engineer and Python Developer with a strong focus on backend development, particularly using Django REST Framework with React.js.
-My journey in competitive programming has allowed me to solve over <b>1500 problems </b>  across various platforms in just 1 year. I have a LeetCode rating of 1492 after solving 800+ problems, and on Codeforces, I’ve solved 400+ problems, achieving the highest rating of 1065. Additionally, I’m a <b>2-star</b> coder on CodeChef, with a highest rating of 1429. I’ve also earned 5-star rankings on HackerRank
- in Problem Solving, C++, Python, and MySQL, and 4-star in C and Java. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
-</p>
 
+### *OPENSOURCE EXPERIENCES*
+
+---
+
+### • Digital SPI Library Management System
+
+Web-based library management platform for Sylhet Polytechnic Institute. Features online student registration with admin verification, flexible book borrowing (3-40 days), automated fine calculations, and comprehensive admin controls for managing books, students, and transactions.
+
+**Tech Stack:** React.js • Django REST • PostgreSQL (Supabase) • JWT Auth • TailwindCSS
+
+[View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) 
  
-
-
-
-
-<h4 style="color: #FF5733;">✨ OPENSOURCE EXPERIENCES ✨</h4>
-
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-
-### 🎓 e-learning Gateway  –  TrueLearner
- TrueLearner is an interactive e-learning platform that connects students with expert instructors, making education accessible and engaging.
-
-🚀 Key Features
+ 
+### • E-learning Gateway (TrueLearner)
+TrueLearner is an interactive e-learning platform that connects students with expert instructors, making education accessible and engaging.
+Key Features
 - Students: Enroll in courses, learn at your own pace, track progress, and engage with instructors.
 - Instructors: Create and manage courses, upload high-quality content, monitor student engagement, and monetize expertise.
 - Admins: Oversee users, manage courses, and track platform analytics for seamless operation.
 
-<b>  Used Tech: </b> `Django`, `Django REST`, `JWT Auth`, `PostgreSQL`, `JavaScript`, `TailwindCSS` 
+**Tech Stack:** Django • Django REST • JWT Auth • PostgreSQL • JavaScript • TailwindCSS 
 
-<p style="color: #555;">👉 Explore TrueLearner: <a href="https://truelearner.vercel.app/" style="color: #0080FE;">truelearner.vercel.app</a></p>
-   
+[View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) 
+
 </div>
 
 <br>
-<p>
-  <h3 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">🌟 My Competitive Programming Profiles 🌟</h3>
-  <div align="center" style="margin: 20px 0;">
+ 
+### *OPENSOURCE EDUCATION* 
+--- 
+
+#### • **Diploma in Engineering in Computer Science and Technology**
+*4-year comprehensive program covering core computing fundamentals & advanced technologies.* <br>
+**CGPA:** 3.83/4.00 
+
+#### • **Higher Secondary Certificate (HSC) in Science**
+*Specialized in the Science group with a focus on Higher Mathematics.* <br>
+**CGPA:** 4.00/5.00 
+
+ <br> 
+  <br> 
+ 
+### *My Competitive Programming Profiles*
+
+---
+
+<p> 
+  <div align="left" style="margin: 20px 0;">
     <a href="https://www.leetcode.com/anmamun0/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="LeetCode Logo" />
     </a>
@@ -94,7 +129,7 @@ My journey in competitive programming has allowed me to solve over <b>1500 probl
 
  
  
-<h3> ⚙️ Languages and Tools </h3>
+<h3> ⚙️Languages and Tools </h3>
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">
     <tr>
@@ -130,36 +165,40 @@ My journey in competitive programming has allowed me to solve over <b>1500 probl
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+<br> 
 
-<h2>🔗 Performance Overview 🌟 </h2> 
+
+### *🔗 Performance Overview 🌟*
+
+---
  
 <div align="center">
  <table>
   <!-- First row: Two images -->
   <tr>
-    <td align="center">
-      <a href="#">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=anmamun0&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=FFFFFF&background=161B22" />
-      </a>
+     <td align="center">
+      <img width="400" src="https://leetcode-badge-sage.vercel.app/badge/anmamuncoder?theme=dark&bgColor=282828&border_radius=10" alt="anmamuncoder :: Leetcode" />
     </td>
-    <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=anmamun0&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="anmamun0" />
+
+  <td align="center">
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=anmamuncoder&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="anmamuncoder" />
     </td>
   </tr>
   
   <!-- Second row: Language stats and Leetcode badge -->
   <tr>
     <td align="center">
-      <img width="400" src="https://leetcode-badge-sage.vercel.app/badge/anmamun0?theme=dark&bgColor=282828&border_radius=10" alt="anmamun0 :: Leetcode" />
+      <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmamuncoder&hide=HTML&langs_count=8&layout=compact&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
-    <td align="center">
-      <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmamun0&hide=HTML&langs_count=8&layout=compact&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    
+  
+  <td align="center">
+      <a href="#">
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=anmamuncoder&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=FFFFFF&background=161B22" />
+      </a>
     </td>
   </tr>
+  
 </table>
 
 </div> 
@@ -169,3 +208,4 @@ My journey in competitive programming has allowed me to solve over <b>1500 probl
   <br/><br/><br/>
 </div>
 <hr/>
+ 
