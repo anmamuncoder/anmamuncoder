@@ -66,14 +66,12 @@ My journey in competitive programming has allowed me to solve over **`1500 probl
 
 Enterprise-grade REST API with comprehensive authentication system, real-time inventory management, and subscription-based access control. Features include user registration with OTP verification, password reset workflows, profile management, WebSocket-powered live updates, inventory sharing between users, subscription tiers, and integrated payment processing. 
 
-**Tech Stack:**  `Django` • Django REST • Redis • Celery • `Docker` • WebSocket (`Channels`) • JWT Auth • API Throttling & Caching  • PostgreSQL  <br> [View More](https://anmamuncoder.vercel.app/project/django-authentication-system) | [Repository](#)
+**Tech Stack:**  `Django` • Django REST • Redis • Celery • `Docker` • WebSocket (`Channels`) • JWT Auth • API Throttling & Caching  • `PostgreSQL`  <br> [View More](https://anmamuncoder.vercel.app/project/django-authentication-system) | [Repository](https://github.com/anmamuncoder/django-authentication-system/commits/main/)
 
 
 **• Digital SPI Library Management System**  - [View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) | [Repository](#) <br> **• E-learning Gateway (TrueLearner)** - [View More](https://anmamuncoder.vercel.app/project/truelearner-online-education-platform) | [Repository](#) 
 
-
-
-</div>
+ 
 
 <br>
  
@@ -83,8 +81,7 @@ Enterprise-grade REST API with comprehensive authentication system, real-time in
 #### • **Diploma in Engineering in Computer Science and Technology**
 *4-year comprehensive program covering core computing fundamentals & advanced technologies.* <br>
 **CGPA:** 3.83/4.00 
-
-#### • **Higher Secondary Certificate (HSC) in Science**
+#### • **Higher Secondary Certificate (HSC) in Science** 
 *Specialized in the Science group with a focus on Higher Mathematics.* <br>
 **CGPA:** 4.00/5.00 
 
