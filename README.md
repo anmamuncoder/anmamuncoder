@@ -1,5 +1,5 @@
 <h3 align="left">
-  Hey there, I'm <a href="https://github.com/anmamun0">Nur Mohummod Al Mamun</a> 
+  Hey there, I'm <a href="https://github.com/anmamuncoder">Nur Mohummod Al Mamun</a> 
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
 </h3>
 
@@ -53,7 +53,7 @@
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
  <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
  
-#### I’m a Software Engineer and Python Developer and Competitive Programmer with a strong focus on backend development, particularly using Django REST Framework with React.js. with 2+ Year Exparience.
+#### I’m a Software Engineer and Python Developer and Competitive Programmer with a strong focus on backend development, particularly using Django REST Framework with React.js. With 2+ years of Experience.
 My journey in competitive programming has allowed me to solve over **`1500 problems`** across various platforms in just 1 year. I have a LeetCode rating of *1492* after solving *800+ problems*, and on Codeforces, I’ve solved *400+ problems*, achieving the highest rating of 1065. Additionally, I’m a *2-star* coder on CodeChef, with a highest rating of 1429. I’ve also earned *5-star* rankings on HackerRank in Problem Solving, *C++, Python, and MySQL, and 4-star in C and Java*. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
  
 
@@ -93,16 +93,16 @@ Enterprise-grade REST API with comprehensive authentication system, real-time in
 
 <p> 
   <div align="left" style="margin: 20px 0;">
-    <a href="https://www.leetcode.com/anmamun0/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.leetcode.com/anmamuncoder/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="LeetCode Logo" />
     </a>
     <a href="https://www.codeforces.com/profile/anmamun0" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2B2B2B&logoColor=FFFFFF&labelColor=4A4A4A&style=for-the-badge" alt="Codeforces Logo" />
     </a>
-    <a href="https://www.hackerrank.com/anmamun0/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.hackerrank.com/anmamuncoder/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00B48A&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="HackerRank Logo" />
     </a>
-    <a href="https://stackoverflow.com/users/23257459/anmamun0" target="_blank" style="text-decoration: none;">
+    <a href="https://stackoverflow.com/users/28907404/anmamuncoder" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="StackOverflow Logo" />
     </a> 
   </div>
@@ -121,22 +121,22 @@ Enterprise-grade REST API with comprehensive authentication system, real-time in
     </tr>
     <tr>
       <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://github.com/anmamun0">
+        <a href="https://github.com/anmamuncoder">
           <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin" alt="Programming Icons">
         </a>
       </td> 
       <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://github.com/anmamun0">
+        <a href="https://github.com/anmamuncoder">
           <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Database Icons">
         </a>
       </td>
       <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://github.com/anmamun0">
+        <a href="https://github.com/anmamuncoder">
           <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,bootstrap" alt="Framework Icons">
         </a>
       </td>
       <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://github.com/anmamun0">
+        <a href="https://github.com/anmamuncoder">
           <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,linux" alt="Tools & Cloud DevOps Icons">
         </a>
       </td>
